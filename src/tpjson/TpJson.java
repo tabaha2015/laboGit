@@ -45,6 +45,7 @@ public class TpJson {
         order.accumulate("validated", true);
         order.accumulate("albums", albums);
         System.out.println(order);
+        //teste
         /*
         JSONArray albums = JSONArray.fromObject(json);
        // System.out.println("Il y a " + albums.size() + " CD(s) dans le catalogue.");
